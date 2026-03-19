@@ -30,7 +30,7 @@ uv run jupyter notebook
 ```
 
 ### Dependencies
-- pandas
-- pulp
-- openpyxl
-- jupyter
+- Pandas
+- PuLp
+- Openpyxl
+- Jupyter
